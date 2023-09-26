@@ -1,6 +1,6 @@
 
 <head>
-  <title> Ducks </title>
+  <title>Ducks</title>
   <p> Ducks! You've heard of ducks, either as food or random watefowl in parks, you know what they are! One thing that is slightly uncommon is keeping ducks as a pet. Ducks actually make great pets, as they are fun companions to have around, and there are many breeds to choose from. Of course, some may say that ducks are dirty and are meant for the wild, but we can turn these disadvantages to advantages, join me today as we disprovem these rumors! </p>
 </head>
 <body>
