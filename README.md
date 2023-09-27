@@ -36,5 +36,5 @@
     <p> So adding that all together it would be around $277-$1000! Keeping ducks is no laughing matter, you must make sure to treat them as well as any pet and cherish them like children. If you love the ducks, they'll love you back!</p>
     <h3>Conclusion</h3>
     <p> Ducks are great pets, but they not as easy to maintain as dogs or cats, so be ready and always ask for advice from experienced duck owners and veterinarians (either online or in-person). PLeas do note, that I am NOT an expert on ducks! Just a person who wants a pet and watches random duck videos on Youtube! This website is meant for people who want get into duck keeping but don't know where to start! If you want a better opnion go to this website!</p>
-    <a href="https://www.countryliving.com/uk/wildlife/farming/how-to/a232/keeping-ducks/" target="_blank">Visitcountryliving.com!</a>
+    <a href="https://www.countryliving.com/uk/wildlife/farming/how-to/a232/keeping-ducks/" target="_blank">countryliving.com!</a>
 </body>
