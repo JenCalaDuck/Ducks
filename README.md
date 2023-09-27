@@ -11,7 +11,7 @@
     <h3> Ducks are Great Outdoor Pets!</h3>
     <p> If you are rather weary about how much manure they might produce, ducks make great outdoor pets! All you would need to do is to buy or make them a duck coop to ensure their safety from the predators in your area! Please note duck coops are rather expensive, so make your own if you're able to!</p>
     <h3>There are Many Cute Duck Breeds to Choose From!</h3>
-    <p> You may be familiar with the watefowl you see at parks: The Mallard. If this doesn't interest you or if you dislike this type of duck their are many cute breds to choose from! Some of these include:</p>
+    <p> You may be familiar with the watefowl you see at parks: The Mallard. If this doesn't interest you or if you dislike this type of duck their are many cute breeds to choose from! Some of these include:</p>
     <ul>
 <li> The Call Duck</li>
       <img src="https://wisecountychickenfarm.com/cdn/shop/products/Screenshot_20230302_203423_Edge.jpg?v=1677811495&width=823"/>
