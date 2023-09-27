@@ -30,7 +30,11 @@
     </ul>
     <p> There are even MORE popular duck breeds to choose from, but these are good options if you want to keep some ducks!</p>
   <h1><strong>What's the Price?</strong></h1>
-    <p> Now that you may or may not want to buy a duck, you may be wondering how much it costs. Let's start off with the basic necessities (food water and shelter)! FOr this example, we'll start off with three call ducks!</p>
+    <p> Now that you may or may not want to buy a duck, you may be wondering how much it costs. Let's start off with the basic necessities (food water and shelter)! For this example, we'll start off with three call ducks!</p>
     <h3> The Necessities</h3>
-    <p> Before you get the duck necessities you must first buy the ducks! In our example, you want to buy three call duck eggs which would usually set you back around $40 to $80. So with three ducks that would be around </p>
+    <p> Before you get the duck necessities you must first buy the ducks! In our example, you want to buy three call duck eggs which would usually set you back around $40 to $80. So with three ducks that would be around $120-$240. Now you need to buy the food, and you want to buy a 50-lb bag of duck feed to keep you're ducks healthy. That would cost you around $32 to $50. Next you need to think about the water. Your typical tap water at home, is good enough for the ducks (just make sure to clean it regularly). You would also need to by a mini pond for the ducks, an inflatable pool would be good setting you back around $10. Last would be shelter. The shelter of the ducks won't cost money if you want to keep them inside your home (the inflatable pool part isn't necessary for as well for indoor duckies), but if you want to keep them outside it would cost around $100-$700. You would also need to buy bedding which is around $15.</p>
+    <p> So adding that all together it would be around $277-$1000! Keeping ducks is no laughing matter, you must make sure to treat them as well as any pet and cherish them like children. If you love the ducks, they'll love you back!</p>
+    <h3>Conclusion</h3>
+    <p> Ducks are great pets, but they not as easy to maintain as dogs or cats, so be ready and always ask for advice from experienced duck owners and veterinarians (either online or in-person). PLeas do note, that I am NOT an expert on ducks! Just a person who wants a pet and watches random duck videos on Youtube! This website is meant for people who want get into duck keeping but don't know where to start! If you want a better opnion go to this website!</p>
+    <a href="https://www.countryliving.com/uk/wildlife/farming/how-to/a232/keeping-ducks/" target="_blank">Visitcountryliving.com!</a>
 </body>
